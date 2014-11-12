@@ -1,0 +1,4 @@
+[consul]
+consul1 ansible_ssh_host=192.168.10.11 consul_is_ui=True consul_is_server=True consul_bootstrap=True consul_datacenter=test
+consul2 ansible_ssh_host=192.168.10.12
+consul3 ansible_ssh_host=192.168.10.13
